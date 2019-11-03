@@ -1,11 +1,11 @@
 {
   "participants": [
     {
-      "name": "Your Name",
-      "email": "Your email",
-      "profilePicture": "URL",
-      "facebookLink": "URL",
-      "githubLink": "URL"
+      "name": "Karan Mistry",
+      "email": "lit2019011@iiitl.ac.in",
+      "profilePicture": "https://www.facebook.com/photo.php?fbid=2296673493880945&set=a.1376617915886512&type=3&source=11&referrer_profile_id=100006149495108",
+      "facebookLink": "https://www.facebook.com/karan.mistry.560",
+      "githubLink": "https://github.com/darkphoenix17"
     }
   ]
 }
